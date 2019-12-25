@@ -1,14 +1,4 @@
-[Preview](https://tarnishablec.github.io/frog-admin/#/)
-
-#### frog-admin
-
-Use:
-
-    Element-ui 🛠 
-    
-    ECharts 🌈
-    
-    VueRx 🎮
+ 
 
 ## Project setup
 ```
@@ -34,6 +24,4 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ 
